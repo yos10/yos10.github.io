@@ -5,7 +5,7 @@ Googleが提供しているブログサービスであるBloggerを日記とし�
 
 ## N予備校を知った経緯
 はてなブックマークを眺めていたときにこの記事を見て知った。  
-https://qiita.com/kurifox/items/1dd19dae11ffa21660c6
+[https://qiita.com/kurifox/items/1dd19dae11ffa21660c6](https://qiita.com/kurifox/items/1dd19dae11ffa21660c6)
 
 無料開放されたときに「本物が学べる！」と思い受講開始した。  
 ただただ楽しくて夢中でやってます。
