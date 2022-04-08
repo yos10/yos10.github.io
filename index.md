@@ -16,7 +16,7 @@ Googleが提供しているブログサービスであるBloggerを日記とし�
 毎日生豆を焙煎しているぐらい好き。酸味のあるコーヒーは好きではないので深煎りで。うまくできると黒糖のようなまろやかな甘味に仕上がる。
 
 ### 最近遊んだゲーム
-<img src="{{prepend: site.url}}images/crucible_knight" alt="坩堝の騎士戦" />
+<img src="{{prepend: site.url}}images/crucible_knight.gif" alt="坩堝の騎士戦" />
 
 ### 好きな歌とか
 <div>
