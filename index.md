@@ -27,13 +27,9 @@ Google が提供しているブログサービスである Blogger を日記と�
 
 ### 好きな歌とか
 
-6 月 30 日はロミオの日らしいので
-
 <div>
-<iframe width="320" height="180" src="https://www.youtube-nocookie.com/embed/7O2oqavJ5fg?end=83" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="320" height="180" src="https://www.youtube-nocookie.com/embed/psuRGfAaju4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
-
-YouTube で期間限定配信していたりするようだけど、今は[アマゾンプライム](https://www.amazon.co.jp/dp/B00J8FAKN0)で視聴できるみたい。
 
 ## その他
 
