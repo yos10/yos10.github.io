@@ -23,7 +23,9 @@ Google が提供しているブログサービスである Blogger を日記と�
 
 ### 最近遊んだゲーム
 
-<img src="{{prepend: site.url}}images/crucible_knight.gif" alt="坩堝の騎士戦" />
+[![YouTube: Hobo Tough Life Soundtrack - 01. HOBO MAIN THEME](https://img.youtube.com/vi/pj_VMthN6HA/0.jpg)](https://www.youtube.com/watch?v=pj_VMthN6HA&list=PLc1JYxhJH3wkju1-VVUODxofi-lem3zVo)
+
+ゲームって始めたばかりの何をやればいいのかわかってなくて試行錯誤している時が面白いな。
 
 ### 好きな歌とか
 
