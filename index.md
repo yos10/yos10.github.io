@@ -23,17 +23,12 @@ Google が提供しているブログサービスである Blogger を日記と�
 
 ### 最近遊んだゲーム
 
-[![YouTube: Hobo Tough Life Soundtrack - 01. HOBO MAIN THEME](https://img.youtube.com/vi/pj_VMthN6HA/0.jpg)](https://www.youtube.com/watch?v=pj_VMthN6HA&list=PLc1JYxhJH3wkju1-VVUODxofi-lem3zVo)
+[![YouTube: Kokoro no Kakera (Japanese Version)](https://img.youtube.com/vi/iCcrq7Yc_xg/0.jpg)](https://www.youtube.com/watch?v=iCcrq7Yc_xg)
 
-ゲームって始めたばかりの何をやればいいのかわかってなくて試行錯誤している時が面白いな。
+Xbox Game Pass に追加されていたからやってみた。作り込みが丁寧で攻略サイト見なくてもコンテンツ全部遊べた。はじめて実績 100%解除したゲームになった。
 
 ### 好きな歌とか
 
 <div>
 <iframe width="320" height="180" src="https://www.youtube-nocookie.com/embed/psuRGfAaju4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
-
-## その他
-
-スマホのタッチパネル、以前から調子良くなくてさらに悪化したみたいだ。  
-アプリで N 予備校のフォーラムを見てるとコピー・通報というオプションが表示されることが多くなったからスマホで操作しないようにしよう。
