@@ -23,13 +23,13 @@ Google が提供しているブログサービスである Blogger を日記と�
 
 ### 最近遊んだゲーム
 
-[![YouTube: Kokoro no Kakera (Japanese Version)](https://img.youtube.com/vi/iCcrq7Yc_xg/0.jpg)](https://www.youtube.com/watch?v=iCcrq7Yc_xg)
-
 Xbox Game Pass に追加されていたからやってみた。作り込みが丁寧で攻略サイト見なくてもコンテンツ全部遊べた。はじめて実績 100%解除したゲームになった。
 
-[![YouTube:【#DJモルガナ】「Take Over」 みんなで選ぶ『ペルソナ５ ザ・ロイヤル』楽曲 第4位](https://img.youtube.com/vi/oMfNBwJCGxE/0.jpg)](https://www.youtube.com/watch?v=oMfNBwJCGxE)
+[![YouTube: Kokoro no Kakera (Japanese Version)](https://img.youtube.com/vi/iCcrq7Yc_xg/0.jpg)](https://www.youtube.com/watch?v=iCcrq7Yc_xg)
 
 プレイ中
+
+[![YouTube:【#DJモルガナ】「Take Over」 みんなで選ぶ『ペルソナ５ ザ・ロイヤル』楽曲 第4位](https://img.youtube.com/vi/oMfNBwJCGxE/0.jpg)](https://www.youtube.com/watch?v=oMfNBwJCGxE)
 
 ### 好きな歌とか
 
