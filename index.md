@@ -27,8 +27,12 @@ Google が提供しているブログサービスである Blogger を日記と�
 
 Xbox Game Pass に追加されていたからやってみた。作り込みが丁寧で攻略サイト見なくてもコンテンツ全部遊べた。はじめて実績 100%解除したゲームになった。
 
+[![YouTube:【#DJモルガナ】「Take Over」 みんなで選ぶ『ペルソナ５ ザ・ロイヤル』楽曲 第4位](https://img.youtube.com/vi/oMfNBwJCGxE/0.jpg)](https://www.youtube.com/watch?v=oMfNBwJCGxE)
+
+プレイ中
+
 ### 好きな歌とか
 
 <div>
-<iframe width="320" height="180" src="https://www.youtube-nocookie.com/embed/psuRGfAaju4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="480" height="360" src="https://www.youtube-nocookie.com/embed/psuRGfAaju4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
