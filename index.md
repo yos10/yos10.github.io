@@ -33,6 +33,6 @@ Xbox Game Pass に追加されていたからやってみた。作り込みが�
 
 ### 好きな歌とか
 
-<div style="max-width: 480px; aspect-ratio: 16/9;">
+<div style="max-width: 480px; aspect-ratio: 4/3;">
 <iframe width="100%" height="100%" src="https://www.youtube-nocookie.com/embed/psuRGfAaju4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
